@@ -1,4 +1,11 @@
 # loginnode
+Create a new package.json file.
+npm init --y  
+
+To install dependencies
+npm i --S express body-parser jsonwebtoken
+
+
 1.Login using the username and password
 
 In postman use the address as http://localhost:3000/login
